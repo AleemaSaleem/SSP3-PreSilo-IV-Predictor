@@ -1,9 +1,9 @@
 streamlit
 pandas
-numpy: 2.5.3
-scipy: 1.18.1
-joblib: 1.6.0
+numpy==2.5.3
+scipy==1.18.1
+joblib==1.6.0
 openpyxl
 xlrd
-scikit-learn
+scikit-learn==1.6.1
 catboost
