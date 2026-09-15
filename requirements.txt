@@ -6,4 +6,4 @@ joblib==1.6.0
 openpyxl
 xlrd
 scikit-learn==1.6.1
-catboost
+catboost==1.2.10
